@@ -1,1 +1,9 @@
-[]
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.exalumen.gigsdoers_flutter",
+    "sha256_cert_fingerprints":
+    ["C0:9E:DA:9A:FA:8E:77:51:35:93:E8:F4:03:10:B0:F1:05:9F:84:5D:7B:AA:4F:DC:1C:2A:7B:A6:50:31:A1:1A"]
+  }
+}]
